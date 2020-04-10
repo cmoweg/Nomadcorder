@@ -23,7 +23,7 @@ class RoomType(AbstractItem):
     """ RoomType Model Definition"""
 
     class Meta:
-        verbose_name = "Room Type"
+        verbose_name = "Room Type"  # 안하면 Room types로 나옴
 
 
 class Amenity(AbstractItem):
