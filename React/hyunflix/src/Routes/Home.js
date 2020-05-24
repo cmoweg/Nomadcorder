@@ -1,1 +1,1 @@
-export default () => "Home";
+export default () => "집이다";
